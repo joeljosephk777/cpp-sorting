@@ -1,0 +1,11 @@
+*.o
+*.out
+a.out
+sorter
+*.dSYM/
+*.zip
+.DS_Store
+program_4_Joel_Varghese/
+*.docx
+.RData
+.Rhistory
